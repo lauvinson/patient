@@ -2,12 +2,17 @@ package utils;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.alibaba.excel.context.AnalysisContext;
 import com.alibaba.excel.event.AnalysisEventListener;
 import com.alibaba.fastjson.JSON;
+
+import static training.AppExample.driver;
 
 /**
  * 模板的读取类
@@ -25,16 +30,27 @@ public class IndexOrNameDataListener<T> extends AnalysisEventListener<T> {
     @Override
     public void invoke(T data, AnalysisContext context) {
         LOGGER.info("解析到一条数据:{}", JSON.toJSONString(data));
-        list.add(data);
-        if (list.size() >= BATCH_COUNT) {
-            saveData();
-            list.clear();
+        String url = "https://the-internet.herokuapp.com/";
+
+        // GET request to site
+        driver.get(url);
+
+        WebElement testingLink = driver.findElement(By.partialLinkText("Testing"));
+        System.out.println(testingLink.toString());
+
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
         }
+
+        // Quitting the Driver - It is important to quit the driver at the end of the program:
     }
 
     @Override
     public void doAfterAllAnalysed(AnalysisContext context) {
         saveData();
+        driver.quit();
         LOGGER.info("所有数据解析完成！");
     }
 

@@ -2,6 +2,9 @@ package training;
 
 import java.io.File;
 import java.io.IOException;
+
+import entity.Patient;
+import jakarta.annotation.PostConstruct;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -15,13 +18,18 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import utils.Reader;
 
+@SpringBootApplication
 public class AppExample {
 
     /**
      * String for Sample
      */
     private static final String COMMON_ID = "some-id";
+    public static WebDriver driver = null;
 
     public static void main(String[] args) throws InterruptedException {
 
@@ -35,23 +43,15 @@ public class AppExample {
         // options.setBinary("C:\\Users\\justi\\Downloads\\chrome\\GoogleChromePortable\\App\\Chrome-bin");
         // WebDriver driver = new ChromeDriver(options);
 
-        WebDriver driver = new ChromeDriver();
+        driver = new ChromeDriver();
+        SpringApplication.run(AppExample.class);
+    }
 
-        String url = "https://the-internet.herokuapp.com/";
+    @PostConstruct
+    public void run() {
+        Reader<Patient> reader = new Reader<>();
+        reader.indexOrNameRead("data.xlsx");
 
-        // GET request to site
-        driver.get(url);
-
-        WebElement testingLink = driver.findElement(By.partialLinkText("Testing"));
-        System.out.println(testingLink.toString());
-
-        System.out.println("=== Test Driver Complete ===");
-
-
-        Thread.sleep(99999999);
-
-        // Quitting the Driver - It is important to quit the driver at the end of the program:
-        driver.quit();
         /*
          * Note: WebDriver API also provides a close() method and sometimes this confuses the
          * beginners. The close() method just closes the browser and can be reopened anytime. It
@@ -59,7 +59,7 @@ public class AppExample {
          * longer need the browser.
          */
 
-        System.exit(0);
+//        System.exit(0);
     }
 
     /**
