@@ -7,6 +7,6 @@ import utils.Reader;
 public class ExcelTest {
     public static void main(String[] args) {
         Reader<Patient> reader = new Reader<>();
-        reader.indexOrNameRead("/Users/vinson/Downloads/R_final_final_副本.xlsx");
+        reader.indexOrNameRead("data.xlsx");
     }
 }
