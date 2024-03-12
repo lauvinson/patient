@@ -14,7 +14,7 @@ public class Patient {
      * NO
      */
     @ExcelProperty(index = 0)
-    private int no;
+    private String no;
 
     /**
      * 病例ID
@@ -56,19 +56,19 @@ public class Patient {
      * 年龄（岁）
      */
     @ExcelProperty(index = 7)
-    private int age;
+    private String age;
 
     /**
      * 身高cm
      */
     @ExcelProperty(index = 8)
-    private int height;
+    private String height;
 
     /**
      * 体重kg
      */
     @ExcelProperty(index = 9)
-    private double weight;
+    private String weight;
 
     /**
      * 民族
@@ -98,25 +98,25 @@ public class Patient {
      * 孕次
      */
     @ExcelProperty(index = 14)
-    private int pregnancyCount;
+    private String pregnancyCount;
 
     /**
      * 产次
      */
     @ExcelProperty(index = 15)
-    private int deliveryCount;
+    private String deliveryCount;
 
     /**
      * 剖宫产次
      */
     @ExcelProperty(index = 16)
-    private int csectionCount;
+    private String csectionCount;
 
     /**
      * 顺产次
      */
     @ExcelProperty(index = 17)
-    private int vaginalDeliveryCount;
+    private String vaginalDeliveryCount;
 
     /**
      * 中医证型
@@ -320,7 +320,7 @@ public class Patient {
      * 每次如厕时间,分钟
      */
     @ExcelProperty(index = 51)
-    private int defecationDuration;
+    private String defecationDuration;
 
     /**
      * 排便辅助方法
@@ -332,7 +332,7 @@ public class Patient {
      * 每天去排便但没有排出来的次数
      */
     @ExcelProperty(index = 53)
-    private int unsuccessfulDefecationAttemptsPerDay;
+    private String unsuccessfulDefecationAttemptsPerDay;
 
     /**
      * 病程,年

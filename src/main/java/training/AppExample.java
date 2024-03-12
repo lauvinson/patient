@@ -2,17 +2,12 @@ package training;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Map;
 
 import entity.Patient;
 import jakarta.annotation.PostConstruct;
 import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -20,6 +15,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import utils.JsonArrayToMap;
 import utils.Reader;
 
 @SpringBootApplication
@@ -30,13 +26,16 @@ public class AppExample {
      */
     private static final String COMMON_ID = "some-id";
     public static WebDriver driver = null;
+    // 存放病人的map key是那条数据的PatientID，value就是那条数据，其他地方可以直接用PatientID取到那条数据
+    public static Map<String, Map<String, Object>> patients;
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, IOException {
+        // 准备在线的病人数据返回值为新建的map
+        patients = JsonArrayToMap.convert("/home/vanlam/IdeaProjects/patient/data.json");
 
         // Optional. If not specified, WebDriver searches the PATH for chromedriver
-         System.setProperty("webdriver.chrome.driver",
-         "/Users/vinson/Downloads/undetect/chromedriver");
-
+        System.setProperty("webdriver.chrome.driver",
+                "/home/vanlam/IdeaProjects/patient/chromedriver");
         // ChromeOptions options = new ChromeOptions();
         // Optional. Sets a non-standard location for Chrome, not required if Chrome is installed in
         // a standard location
@@ -44,6 +43,14 @@ public class AppExample {
         // WebDriver driver = new ChromeDriver(options);
 
         driver = new ChromeDriver();
+        driver.get("http://www.yihhm.com:82");
+
+        Cookie c1 = new Cookie("ASP.NET_SessionId", "2jzaao453s0xt2reqwsr5pj3", "/");
+        Cookie c2 = new Cookie(".ASPX-EIPWeb", "1A590BF806E292FB70E97E5B0CA43B27BC04BA33F4B8BACB7D361787E46A8A588579FD5287434692E22FAAD186243069AF255774C3A1BE590A7486D824148FDC32B6D8A2C7E1683007203BD98560982A20F6747F89BFDC24E1D2B6048F70D0250196A51314015E579BBF094EB32AB1660BAA43EC", "/");
+
+        // 添加cookie
+        driver.manage().addCookie(c1);
+        driver.manage().addCookie(c2);
         SpringApplication.run(AppExample.class);
     }
 
@@ -64,7 +71,7 @@ public class AppExample {
 
     /**
      * Selenium Demonstration code for Screenshots, JavaScript, Cookies
-     * 
+     *
      * @param driver
      */
     private static void otherInteractions(WebDriver driver) {
@@ -153,7 +160,7 @@ public class AppExample {
 
     /**
      * Selenium Demonstration code for element interactions from
-     * 
+     *
      * @param driver
      */
     private static void elementInteraction(WebDriver driver) {
@@ -203,7 +210,9 @@ public class AppExample {
         // WebElement testingLink = wait.until(
         //         ExpectedConditions.visibilityOfElementLocated(By.partialLinkText("Testing")));
 
-
+        //使用 JavaScript 代码弹出 Alert 弹窗
+//        JavascriptExecutor driver_js= ((JavascriptExecutor) driver);
+//        driver_js.executeScript("window.alert('来自java的弹窗警告')");
         /*
          * Selenium Demonstration code for element interactions for
          * locating Elements via tagName like <a>, <div>, there may be multiple elements with the
@@ -289,8 +298,8 @@ public class AppExample {
 
     }
 
-    /** 
-     * Mouse and keyboard interactions 
+    /**
+     * Mouse and keyboard interactions
      */
     private static void mouseAndKeyboard(WebDriver driver) {
         // Onstantiate Actions and pass it the WebDriver instance:
@@ -345,9 +354,9 @@ public class AppExample {
 
     /**
      * Set and attribute of an WebElement
-     * 
-     * @param element to change
-     * @param value new value
+     *
+     * @param element    to change
+     * @param value      new value
      * @param clearFirst whether to clear the value first before setting it
      */
     public static void setAttribute(WebElement element, String value, Boolean clearFirst) {
