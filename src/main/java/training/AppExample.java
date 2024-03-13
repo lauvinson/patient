@@ -9,6 +9,7 @@ import jakarta.annotation.PostConstruct;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -31,18 +32,20 @@ public class AppExample {
 
     public static void main(String[] args) throws InterruptedException, IOException {
         // 准备在线的病人数据返回值为新建的map
-        patients = JsonArrayToMap.convert("/home/vanlam/IdeaProjects/patient/data.json");
+        patients = JsonArrayToMap.convert("/Users/vinson/Develop/java/datatool/data.json");
 
         // Optional. If not specified, WebDriver searches the PATH for chromedriver
         System.setProperty("webdriver.chrome.driver",
-                "/home/vanlam/IdeaProjects/patient/chromedriver");
+                "/Users/vinson/Downloads/undetect/chromedriver");
         // ChromeOptions options = new ChromeOptions();
         // Optional. Sets a non-standard location for Chrome, not required if Chrome is installed in
         // a standard location
         // options.setBinary("C:\\Users\\justi\\Downloads\\chrome\\GoogleChromePortable\\App\\Chrome-bin");
         // WebDriver driver = new ChromeDriver(options);
 
-        driver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--headless=new");
+        driver = new ChromeDriver(options);
         driver.get("http://www.yihhm.com:82");
 
         Cookie c1 = new Cookie("ASP.NET_SessionId", "2jzaao453s0xt2reqwsr5pj3", "/");
