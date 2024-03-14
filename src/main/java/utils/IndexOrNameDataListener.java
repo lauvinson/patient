@@ -62,72 +62,70 @@ public class IndexOrNameDataListener<T> extends AnalysisEventListener<T> {
 //        }
 
         // 基本信息
-//        try {
-//            // 基础信息页面
-//            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=404C3FFD-E661-49A9-8094-B82D73796A56&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
-//            String currentUrl = driver.getCurrentUrl();
-//            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
-//            if (currentUrl.contains("AnswerID=-1")) {
-//                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
-//                for (int i = 0; i < fieldsets.size(); i++) {
-//                    WebElement fieldset = fieldsets.get(i);
-//                    String fieldsetId = fieldset.getAttribute("id");
-//                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
-//                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
-//                    switch (i) {
-//                        case 0 -> fillData(legendBody, patient.getCaseId());
-//                        case 1 -> fillData(legendBody, patient.getIdNo().replace("'", ""));
-//                        case 2 -> fillData(legendBody, patient.getSampleSrcNo());
-//                        case 3 -> fillData(legendBody, patient.getBloodSampleNo());
-//                        case 4 -> fillData(legendBody, patient.getTissueSampleNo());
-//                        case 5 -> fillData(legendBody, patient.getAge());
-//                        case 6 -> fillData(legendBody, patient.getWeight());
-//                        case 7 -> fillData(legendBody, patient.getHeight());
-//                        case 8 -> fillData(legendBody, patient.getEthnicity() + "族");
-//                        case 9 -> fillData(legendBody, patient.getEducation());
-//                        case 10 -> fillData(legendBody, "市内");
-//                        case 11 -> fillData(legendBody, patient.getOccupation());
-//                    }
-//                }
-//                driver.findElement(By.id("btnSubmit-btnEl")).click();
-//                Thread.sleep(3000);
-////                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
-//                return;
-//            }
-//        } catch (Exception e) {
-//            LOGGER.error(e.toString());
-//        }
+        try {
+            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=404C3FFD-E661-49A9-8094-B82D73796A56&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
+            String currentUrl = driver.getCurrentUrl();
+            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
+            if (currentUrl.contains("AnswerID=-1")) {
+                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
+                for (int i = 0; i < fieldsets.size(); i++) {
+                    WebElement fieldset = fieldsets.get(i);
+                    String fieldsetId = fieldset.getAttribute("id");
+                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
+                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
+                    switch (i) {
+                        case 0 -> fillData(legendBody, patient.getCaseId());
+                        case 1 -> fillData(legendBody, patient.getIdNo().replace("'", ""));
+                        case 2 -> fillData(legendBody, patient.getSampleSrcNo());
+                        case 3 -> fillData(legendBody, patient.getBloodSampleNo());
+                        case 4 -> fillData(legendBody, patient.getTissueSampleNo());
+                        case 5 -> fillData(legendBody, patient.getAge());
+                        case 6 -> fillData(legendBody, patient.getWeight());
+                        case 7 -> fillData(legendBody, patient.getHeight());
+                        case 8 -> fillData(legendBody, patient.getEthnicity() + "族");
+                        case 9 -> fillData(legendBody, patient.getEducation());
+                        case 10 -> fillData(legendBody, "市内");
+                        case 11 -> fillData(legendBody, patient.getOccupation());
+                    }
+                }
+                driver.findElement(By.id("btnSubmit-btnEl")).click();
+                Thread.sleep(3000);
+//                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
+                return;
+            }
+        } catch (Exception e) {
+            LOGGER.error(e.toString());
+        }
 
         // 孕产情况
-//        try {
-//            // 基础信息页面
-//            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=81C9A083-57A7-4237-8411-86F05FDF1F0E&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
-//            String currentUrl = driver.getCurrentUrl();
-//            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
-//            if (currentUrl.contains("AnswerID=-1")) {
-//                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
-//                for (int i = 0; i < fieldsets.size(); i++) {
-//                    WebElement fieldset = fieldsets.get(i);
-//                    String fieldsetId = fieldset.getAttribute("id");
-//                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
-//                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
-//                    switch (i) {
-//                        case 0 -> fillData(legendBody, patient.getMaritalStatus());
-//                        case 1 -> fillData(legendBody, "24");
-//                        case 2 -> fillData(legendBody, patient.getPregnancyCount());
-//                        case 3 -> fillData(legendBody, patient.getDeliveryCount());
-//                        case 4 -> fillData(legendBody, patient.getCsectionCount());
-//                        case 5 -> fillData(legendBody, patient.getVaginalDeliveryCount());
-//                    }
-//                }
-//                driver.findElement(By.id("btnSubmit-btnEl")).click();
-//                Thread.sleep(3000);
-////                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
-//                return;
-//            }
-//        } catch (Exception e) {
-//            LOGGER.error(e.toString());
-//        }
+        try {
+            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=81C9A083-57A7-4237-8411-86F05FDF1F0E&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
+            String currentUrl = driver.getCurrentUrl();
+            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
+            if (currentUrl.contains("AnswerID=-1")) {
+                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
+                for (int i = 0; i < fieldsets.size(); i++) {
+                    WebElement fieldset = fieldsets.get(i);
+                    String fieldsetId = fieldset.getAttribute("id");
+                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
+                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
+                    switch (i) {
+                        case 0 -> fillData(legendBody, patient.getMaritalStatus());
+                        case 1 -> fillData(legendBody, "24");
+                        case 2 -> fillData(legendBody, patient.getPregnancyCount());
+                        case 3 -> fillData(legendBody, patient.getDeliveryCount());
+                        case 4 -> fillData(legendBody, patient.getCsectionCount());
+                        case 5 -> fillData(legendBody, patient.getVaginalDeliveryCount());
+                    }
+                }
+                driver.findElement(By.id("btnSubmit-btnEl")).click();
+                Thread.sleep(3000);
+//                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
+                return;
+            }
+        } catch (Exception e) {
+            LOGGER.error(e.toString());
+        }
 
 //
 //            // 盆底疾病
@@ -140,7 +138,6 @@ public class IndexOrNameDataListener<T> extends AnalysisEventListener<T> {
 //
         // CRADI-8
         try {
-            // 基础信息页面
             driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=48613CA7-4B58-469C-9739-01CC34320B59&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
             String currentUrl = driver.getCurrentUrl();
             // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
@@ -172,44 +169,101 @@ public class IndexOrNameDataListener<T> extends AnalysisEventListener<T> {
         }
 //
         // 便秘
-//        try {
-//            // 基础信息页面
-//            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=A7F469AE-E67A-4DE7-B2C9-6C61E86419B0&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
-//            String currentUrl = driver.getCurrentUrl();
-//            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
-//            if (currentUrl.contains("AnswerID=-1")) {
-//                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
-//                for (int i = 0; i < fieldsets.size(); i++) {
-//                    WebElement fieldset = fieldsets.get(i);
-//                    String fieldsetId = fieldset.getAttribute("id");
-//                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
-//                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
-//                    switch (i) {
-//                        case 0 -> fillData(legendBody, patient.getDefecationFrequency(), true);
-//                        case 1 -> fillData(legendBody, patient.getStrainedDefecation(), true);
-//                        case 2 -> fillData(legendBody, patient.getSensationOfIncompleteBowelEvacuation(), true);
-//                        case 3 -> fillData(legendBody, patient.getAbdomenPain(), true);
-//                        case 4 -> fillData(legendBody, patient.getDefecationDuration(), true);
-//                        case 5 -> fillData(legendBody, patient.getDefecationAssistanceMethod(), true);
-//                        case 6 -> fillData(legendBody, patient.getUnsuccessfulDefecationAttemptsPerDay(), true);
-//                        case 7 -> fillData(legendBody, patient.getDiseaseCourseDuration(), false);
-//                    }
-//                }
-//                driver.findElement(By.id("btnSubmit-btnEl")).click();
-//                Thread.sleep(3000);
-////                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
-//                return;
-//            }
-//        } catch (Exception e) {
-//            LOGGER.error(e.toString());
-//        }
+        try {
+            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=A7F469AE-E67A-4DE7-B2C9-6C61E86419B0&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
+            String currentUrl = driver.getCurrentUrl();
+            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
+            if (currentUrl.contains("AnswerID=-1")) {
+                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
+                for (int i = 0; i < fieldsets.size(); i++) {
+                    WebElement fieldset = fieldsets.get(i);
+                    String fieldsetId = fieldset.getAttribute("id");
+                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
+                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
+                    switch (i) {
+                        case 0 -> fillData(legendBody, patient.getDefecationFrequency(), true);
+                        case 1 -> fillData(legendBody, patient.getStrainedDefecation(), true);
+                        case 2 -> fillData(legendBody, patient.getSensationOfIncompleteBowelEvacuation(), true);
+                        case 3 -> fillData(legendBody, patient.getAbdomenPain(), true);
+                        case 4 -> fillData(legendBody, patient.getDefecationDuration(), true);
+                        case 5 -> fillData(legendBody, patient.getDefecationAssistanceMethod(), true);
+                        case 6 -> fillData(legendBody, patient.getUnsuccessfulDefecationAttemptsPerDay(), true);
+                        case 7 -> fillData(legendBody, patient.getDiseaseCourseDuration(), false);
+                    }
+                }
+                driver.findElement(By.id("btnSubmit-btnEl")).click();
+                Thread.sleep(3000);
+//                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
+                return;
+            }
+        } catch (Exception e) {
+            LOGGER.error(e.toString());
+        }
 //
 //            // SF-12
-//            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=5D17DB29-024F-4BE3-BF14-72995467E59B&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
-//            Thread.sleep(3000);
+        try {
+            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=5D17DB29-024F-4BE3-BF14-72995467E59B&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
+            String currentUrl = driver.getCurrentUrl();
+            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
+            if (currentUrl.contains("AnswerID=-1")) {
+                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
+                for (int i = 0; i < fieldsets.size(); i++) {
+                    WebElement fieldset = fieldsets.get(i);
+                    String fieldsetId = fieldset.getAttribute("id");
+                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
+                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
+                    switch (i) {
+                        case 0 -> fillData(legendBody, patient.getOverallHealthStatus());
+                        case 1 -> fillData(legendBody, patient.getModerateActivity());
+                        case 2 -> fillData(legendBody, patient.getClimbingStairs());
+                        case 3 -> fillData(legendBody, patient.getPhysicalLimitationsOnActivities().replace("有些限制", "是").replace("毫无限制", "不"));
+                        case 4 -> fillData(legendBody, patient.getPhysicalLimitationsOnActivityTypes().replace("有些限制", "是").replace("毫无限制", "不"));
+                        case 5 -> fillData(legendBody, patient.getEmotionalLimitationsOnActivities().replace("有些限制", "是").replace("毫无限制", "不"));
+                        case 6 -> fillData(legendBody, patient.getEmotionalLimitationsOnActivityTypes().replace("有些限制", "是").replace("毫无限制", "不"));
+                        case 7 -> fillData(legendBody, patient.getEmotionalLimitationsOnActivityTypes2());
+                        case 8 -> fillData(legendBody, patient.getCalmInLastFourWeeks());
+                        case 9 -> fillData(legendBody, patient.getEnergeticInLastFourWeeks());
+                        case 10 -> fillData(legendBody, patient.getDownInLastFourWeeks());
+                        case 11 -> fillData(legendBody, patient.getSocialActivityLimitationInLastFourWeeks());
+                    }
+                }
+                driver.findElement(By.id("btnSubmit-btnEl")).click();
+                Thread.sleep(3000);
+//                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
+                return;
+            }
+        } catch (Exception e) {
+            LOGGER.error(e.toString());
+        }
 //
 //            // 佛罗里达
-//            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=ACAECB83-B4C8-4102-A4EA-A863AC5CBC20&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
+        try {
+            driver.get("http://www.yihhm.com:82/Qn/Survey.aspx?QnID=ACAECB83-B4C8-4102-A4EA-A863AC5CBC20&PatientID=" + ID + "&AnswerID=-1&ProjectID=30");
+            String currentUrl = driver.getCurrentUrl();
+            // 检查URL中的PatientId参数是否为"-1"，填过的就不是-1，直接跳过，currentUrl.contains("AnswerID=-1")
+            if (currentUrl.contains("AnswerID=-1")) {
+                List<WebElement> fieldsets = driver.findElements(By.xpath("//form//fieldset"));
+                for (int i = 0; i < fieldsets.size(); i++) {
+                    WebElement fieldset = fieldsets.get(i);
+                    String fieldsetId = fieldset.getAttribute("id");
+                    WebElement legendTitle = fieldset.findElement(By.id(fieldsetId + "-legendTitle"));
+                    WebElement legendBody = fieldset.findElement(By.id(fieldsetId + "-body"));
+                    switch (i) {
+                        case 0 -> fillData(legendBody, patient.getSolid(), true);
+                        case 1 -> fillData(legendBody, patient.getLiquid(), true);
+                        case 2 -> fillData(legendBody, patient.getGas(), true);
+                        case 3 -> fillData(legendBody, patient.getUseDiaper(), true);
+                        case 4 -> fillData(legendBody, patient.getLifestyleChanges(), true);
+                    }
+                }
+                driver.findElement(By.id("btnSubmit-btnEl")).click();
+                Thread.sleep(3000);
+//                new WebDriverWait(driver, Duration.ofSeconds(5)).until(ExpectedConditions.visibilityOfElementLocated(By.className("x-form-display-field")));
+                return;
+            }
+        } catch (Exception e) {
+            LOGGER.error(e.toString());
+        }
         JavascriptExecutor js = (JavascriptExecutor) driver;
 
         // Quitting the Driver - It is important to quit the driver at the end of the program:

@@ -1,6 +1,6 @@
 [
   {
-    "CompletedCRFCount": 1,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2978,
@@ -46,7 +46,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2976,
@@ -59,17 +59,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:09:58",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2975,
@@ -82,17 +82,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:09:44",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2974,
@@ -105,17 +105,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:09:33",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2973,
@@ -128,17 +128,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:09:21",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2972,
@@ -151,17 +151,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:09:10",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2971,
@@ -174,17 +174,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:08:57",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2970,
@@ -197,17 +197,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:08:44",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2969,
@@ -220,17 +220,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:08:26",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2968,
@@ -243,17 +243,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:08:12",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2967,
@@ -266,17 +266,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:07:59",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2966,
@@ -289,17 +289,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:07:47",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2965,
@@ -312,17 +312,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:07:32",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2964,
@@ -335,17 +335,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:07:20",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2963,
@@ -358,17 +358,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:07:06",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2962,
@@ -381,17 +381,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:06:53",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2961,
@@ -404,17 +404,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:06:40",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2960,
@@ -427,17 +427,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:06:27",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2959,
@@ -450,17 +450,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:06:14",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2958,
@@ -473,17 +473,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:05:53",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2957,
@@ -496,17 +496,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:05:41",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2956,
@@ -519,17 +519,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:05:28",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2955,
@@ -542,17 +542,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:05:15",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2954,
@@ -565,17 +565,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:04:59",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2953,
@@ -588,14 +588,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:04:46",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -621,7 +621,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2951,
@@ -634,17 +634,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:03:49",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2950,
@@ -657,17 +657,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:03:35",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2949,
@@ -680,17 +680,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:03:20",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2948,
@@ -703,17 +703,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:03:05",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2947,
@@ -726,14 +726,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T15:00:14",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -759,7 +759,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2945,
@@ -772,17 +772,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:58:28",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2944,
@@ -795,17 +795,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:58:13",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2943,
@@ -818,17 +818,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:57:59",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2942,
@@ -841,17 +841,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:57:34",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2941,
@@ -864,17 +864,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:57:13",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2940,
@@ -887,14 +887,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:56:57",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -920,7 +920,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2938,
@@ -933,17 +933,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:56:15",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2937,
@@ -956,17 +956,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:56:01",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2936,
@@ -979,17 +979,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:55:39",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2935,
@@ -1002,17 +1002,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:55:26",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2934,
@@ -1025,17 +1025,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:55:08",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2933,
@@ -1048,17 +1048,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:54:55",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2932,
@@ -1071,14 +1071,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:54:42",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -1104,7 +1104,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2930,
@@ -1117,17 +1117,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:54:08",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2929,
@@ -1140,17 +1140,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:53:17",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2928,
@@ -1163,17 +1163,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:53:04",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2927,
@@ -1186,17 +1186,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:52:51",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2926,
@@ -1209,17 +1209,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:52:40",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2925,
@@ -1232,17 +1232,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:51:06",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2924,
@@ -1255,17 +1255,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:50:52",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2923,
@@ -1278,17 +1278,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:50:38",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2922,
@@ -1301,17 +1301,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:50:26",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2921,
@@ -1324,17 +1324,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:50:12",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2920,
@@ -1347,17 +1347,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:50:00",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2919,
@@ -1370,17 +1370,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:49:48",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2918,
@@ -1393,17 +1393,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:49:09",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2917,
@@ -1416,17 +1416,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:48:52",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2916,
@@ -1439,17 +1439,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:48:19",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2915,
@@ -1462,17 +1462,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:48:05",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2914,
@@ -1485,17 +1485,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:47:48",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2913,
@@ -1508,17 +1508,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:47:34",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2912,
@@ -1531,17 +1531,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:47:17",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2911,
@@ -1554,17 +1554,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:47:01",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2910,
@@ -1577,17 +1577,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:46:48",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2909,
@@ -1600,17 +1600,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:45:39",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2908,
@@ -1623,17 +1623,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:45:26",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2907,
@@ -1646,17 +1646,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:45:14",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2906,
@@ -1669,17 +1669,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:44:53",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2905,
@@ -1692,17 +1692,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:44:40",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2904,
@@ -1715,17 +1715,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:44:28",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2903,
@@ -1738,17 +1738,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:44:14",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2902,
@@ -1761,17 +1761,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:44:01",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2901,
@@ -1784,17 +1784,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:43:48",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2900,
@@ -1807,17 +1807,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:43:34",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2899,
@@ -1830,14 +1830,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:43:20",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -1863,7 +1863,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2897,
@@ -1876,17 +1876,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:42:54",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2896,
@@ -1899,17 +1899,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:42:36",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2895,
@@ -1922,17 +1922,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:42:21",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2894,
@@ -1945,17 +1945,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:42:09",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2893,
@@ -1968,17 +1968,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:41:56",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2892,
@@ -1991,14 +1991,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:41:43",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -2024,7 +2024,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2890,
@@ -2037,17 +2037,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:41:18",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2889,
@@ -2060,17 +2060,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:41:06",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2888,
@@ -2083,17 +2083,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:40:54",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2887,
@@ -2106,17 +2106,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:40:42",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2886,
@@ -2129,17 +2129,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:39:24",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2885,
@@ -2152,17 +2152,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:39:12",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2884,
@@ -2175,14 +2175,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:39:00",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -2208,7 +2208,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2882,
@@ -2221,17 +2221,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:38:35",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2881,
@@ -2244,17 +2244,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:38:22",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2880,
@@ -2267,17 +2267,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:38:10",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2879,
@@ -2290,17 +2290,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:37:58",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2878,
@@ -2313,17 +2313,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:37:46",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2877,
@@ -2336,17 +2336,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:37:35",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2876,
@@ -2359,17 +2359,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:36:57",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2875,
@@ -2382,17 +2382,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:35:59",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2874,
@@ -2405,17 +2405,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:35:47",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2873,
@@ -2428,17 +2428,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:35:34",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2872,
@@ -2451,17 +2451,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:35:22",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2871,
@@ -2474,14 +2474,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:35:09",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -2507,7 +2507,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2869,
@@ -2520,17 +2520,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:34:42",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2868,
@@ -2543,17 +2543,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:34:31",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2867,
@@ -2566,17 +2566,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:34:13",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2866,
@@ -2589,17 +2589,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:34:01",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2865,
@@ -2612,17 +2612,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:32:48",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2864,
@@ -2635,17 +2635,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:32:30",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2863,
@@ -2658,17 +2658,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:31:51",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2862,
@@ -2681,17 +2681,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:31:39",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2861,
@@ -2704,17 +2704,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:31:28",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2860,
@@ -2727,17 +2727,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:31:15",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2859,
@@ -2750,17 +2750,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:30:42",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2858,
@@ -2773,17 +2773,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:30:30",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2857,
@@ -2796,17 +2796,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:29:56",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2856,
@@ -2819,17 +2819,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:29:43",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2855,
@@ -2842,17 +2842,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:29:29",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2854,
@@ -2865,17 +2865,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:29:17",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2853,
@@ -2888,17 +2888,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:29:04",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2852,
@@ -2911,17 +2911,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:28:46",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2851,
@@ -2934,17 +2934,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:28:34",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2850,
@@ -2957,17 +2957,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:28:21",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2849,
@@ -2980,17 +2980,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:28:06",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2848,
@@ -3003,17 +3003,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:27:54",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2847,
@@ -3026,17 +3026,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:27:40",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2846,
@@ -3049,17 +3049,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:27:28",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2845,
@@ -3072,17 +3072,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:27:15",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2844,
@@ -3095,17 +3095,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:27:00",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2843,
@@ -3118,17 +3118,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:26:46",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2842,
@@ -3141,17 +3141,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:26:30",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2841,
@@ -3164,17 +3164,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:25:13",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2840,
@@ -3187,17 +3187,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:24:58",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2839,
@@ -3210,17 +3210,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:24:46",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2838,
@@ -3233,17 +3233,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:24:27",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2837,
@@ -3256,14 +3256,14 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:24:08",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
     "CompletedCRFCount": 0,
@@ -3289,7 +3289,7 @@
     "PatientStatusName": "未开始"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2835,
@@ -3302,17 +3302,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:23:40",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2834,
@@ -3325,17 +3325,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:23:15",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2833,
@@ -3348,17 +3348,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:23:00",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2832,
@@ -3371,17 +3371,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:22:29",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 0,
+    "CompletedCRFCount": 6,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2831,
@@ -3394,17 +3394,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 0,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2024-02-27T14:22:12",
-    "PatientStatusName": "未开始"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2537,
@@ -3427,7 +3427,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2536,
@@ -3450,7 +3450,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2535,
@@ -3473,7 +3473,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2534,
@@ -3496,7 +3496,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2533,
@@ -3519,7 +3519,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2532,
@@ -3542,7 +3542,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2531,
@@ -3565,7 +3565,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2530,
@@ -3588,7 +3588,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2529,
@@ -3611,7 +3611,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2528,
@@ -3634,7 +3634,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2527,
@@ -3657,7 +3657,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2354,
@@ -3680,7 +3680,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2353,
@@ -3703,7 +3703,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2352,
@@ -3726,7 +3726,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2351,
@@ -3749,7 +3749,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2350,
@@ -3772,7 +3772,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2349,
@@ -3795,7 +3795,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2348,
@@ -3818,7 +3818,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2347,
@@ -3841,7 +3841,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2346,
@@ -3864,7 +3864,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2345,
@@ -3887,7 +3887,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2344,
@@ -3910,7 +3910,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2343,
@@ -3933,7 +3933,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2342,
@@ -3956,7 +3956,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2341,
@@ -3979,7 +3979,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2340,
@@ -4002,7 +4002,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2339,
@@ -4025,7 +4025,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2338,
@@ -4048,7 +4048,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2337,
@@ -4071,7 +4071,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2336,
@@ -4094,7 +4094,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2335,
@@ -4117,7 +4117,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2334,
@@ -4140,7 +4140,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2333,
@@ -4163,7 +4163,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2217,
@@ -4186,7 +4186,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2216,
@@ -4209,7 +4209,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2215,
@@ -4232,7 +4232,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2214,
@@ -4255,7 +4255,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2213,
@@ -4278,7 +4278,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2212,
@@ -4301,7 +4301,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2211,
@@ -4324,7 +4324,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2210,
@@ -4347,7 +4347,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2209,
@@ -4370,7 +4370,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2208,
@@ -4393,7 +4393,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2207,
@@ -4416,7 +4416,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2206,
@@ -4439,7 +4439,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2205,
@@ -4462,7 +4462,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2204,
@@ -4485,7 +4485,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2203,
@@ -4508,7 +4508,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2202,
@@ -4531,7 +4531,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2201,
@@ -4554,7 +4554,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2200,
@@ -4577,7 +4577,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2199,
@@ -4600,7 +4600,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2198,
@@ -4623,7 +4623,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2197,
@@ -4646,7 +4646,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2196,
@@ -4669,7 +4669,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2195,
@@ -4715,7 +4715,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2193,
@@ -4738,7 +4738,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2192,
@@ -4774,17 +4774,17 @@
     "PatientBirthday": "1900-01-01T00:00:00",
     "PatientAge": 0,
     "PatientGender": "",
-    "PatientStatus": 2,
+    "PatientStatus": 1,
     "PatientPhone": "",
     "FamilyPhone": "",
     "AdmissionNo": "",
     "WxNo": "",
     "CreateName": "wwg",
     "CreateTime": "2022-12-20T23:10:04",
-    "PatientStatusName": "已完成"
+    "PatientStatusName": "进行中"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2170,
@@ -4807,7 +4807,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2169,
@@ -4830,7 +4830,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2168,
@@ -4853,7 +4853,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2167,
@@ -4876,7 +4876,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2166,
@@ -4899,7 +4899,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2165,
@@ -4922,7 +4922,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2164,
@@ -4945,7 +4945,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2163,
@@ -4968,7 +4968,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2162,
@@ -5014,7 +5014,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2160,
@@ -5037,7 +5037,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2159,
@@ -5060,7 +5060,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2158,
@@ -5083,7 +5083,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2157,
@@ -5106,7 +5106,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2156,
@@ -5129,7 +5129,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2155,
@@ -5152,7 +5152,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2154,
@@ -5175,7 +5175,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2153,
@@ -5198,7 +5198,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2152,
@@ -5221,7 +5221,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2151,
@@ -5244,7 +5244,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2150,
@@ -5267,7 +5267,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2149,
@@ -5290,7 +5290,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2148,
@@ -5313,7 +5313,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2147,
@@ -5336,7 +5336,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2146,
@@ -5359,7 +5359,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2145,
@@ -5382,7 +5382,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2144,
@@ -5405,7 +5405,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2143,
@@ -5428,7 +5428,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2142,
@@ -5451,7 +5451,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2141,
@@ -5474,7 +5474,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 2140,
@@ -5497,7 +5497,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1896,
@@ -5520,7 +5520,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1895,
@@ -5543,7 +5543,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1894,
@@ -5566,7 +5566,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1893,
@@ -5589,7 +5589,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1892,
@@ -5612,7 +5612,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1891,
@@ -5635,7 +5635,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1890,
@@ -5658,7 +5658,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1889,
@@ -5681,7 +5681,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1888,
@@ -5704,7 +5704,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1887,
@@ -5727,7 +5727,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1886,
@@ -5773,7 +5773,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1884,
@@ -5796,7 +5796,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1883,
@@ -5819,7 +5819,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1882,
@@ -5842,7 +5842,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1881,
@@ -5865,7 +5865,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1880,
@@ -5888,7 +5888,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1879,
@@ -5911,7 +5911,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1878,
@@ -5934,7 +5934,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1877,
@@ -5957,7 +5957,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1876,
@@ -5980,7 +5980,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1875,
@@ -6003,7 +6003,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1874,
@@ -6026,7 +6026,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1873,
@@ -6049,7 +6049,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1872,
@@ -6072,7 +6072,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1871,
@@ -6095,7 +6095,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1777,
@@ -6118,7 +6118,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1776,
@@ -6141,7 +6141,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1775,
@@ -6164,7 +6164,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1774,
@@ -6187,7 +6187,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1773,
@@ -6210,7 +6210,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1772,
@@ -6233,7 +6233,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1771,
@@ -6256,7 +6256,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1770,
@@ -6279,7 +6279,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1769,
@@ -6302,7 +6302,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1768,
@@ -6325,7 +6325,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1767,
@@ -6348,7 +6348,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1755,
@@ -6371,7 +6371,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1754,
@@ -6394,7 +6394,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1753,
@@ -6417,7 +6417,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1752,
@@ -6440,7 +6440,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1751,
@@ -6463,7 +6463,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1750,
@@ -6486,7 +6486,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1749,
@@ -6509,7 +6509,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1748,
@@ -6532,7 +6532,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1747,
@@ -6555,7 +6555,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1746,
@@ -6578,7 +6578,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1745,
@@ -6601,7 +6601,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1744,
@@ -6624,7 +6624,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1743,
@@ -6647,7 +6647,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1742,
@@ -6670,7 +6670,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1741,
@@ -6693,7 +6693,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1740,
@@ -6716,7 +6716,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1739,
@@ -6739,7 +6739,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1738,
@@ -6762,7 +6762,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1737,
@@ -6785,7 +6785,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1736,
@@ -6808,7 +6808,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1735,
@@ -6831,7 +6831,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1734,
@@ -6854,7 +6854,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1733,
@@ -6877,7 +6877,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1732,
@@ -6900,7 +6900,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1731,
@@ -6923,7 +6923,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1730,
@@ -6946,7 +6946,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1729,
@@ -6969,7 +6969,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1728,
@@ -6992,7 +6992,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1727,
@@ -7015,7 +7015,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1726,
@@ -7038,7 +7038,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1725,
@@ -7061,7 +7061,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1693,
@@ -7084,7 +7084,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1692,
@@ -7107,7 +7107,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1691,
@@ -7130,7 +7130,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1690,
@@ -7153,7 +7153,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1689,
@@ -7176,7 +7176,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1688,
@@ -7199,7 +7199,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1665,
@@ -7222,7 +7222,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1664,
@@ -7245,7 +7245,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1663,
@@ -7268,7 +7268,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1662,
@@ -7291,7 +7291,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1655,
@@ -7314,7 +7314,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1654,
@@ -7337,7 +7337,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1653,
@@ -7360,7 +7360,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1652,
@@ -7383,7 +7383,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1651,
@@ -7406,7 +7406,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1650,
@@ -7429,7 +7429,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1649,
@@ -7452,7 +7452,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1643,
@@ -7475,7 +7475,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1642,
@@ -7498,7 +7498,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1641,
@@ -7521,7 +7521,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1640,
@@ -7544,7 +7544,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1639,
@@ -7567,7 +7567,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1638,
@@ -7590,7 +7590,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1637,
@@ -7613,7 +7613,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1636,
@@ -7636,7 +7636,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1635,
@@ -7659,7 +7659,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1634,
@@ -7682,7 +7682,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1633,
@@ -7705,7 +7705,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1632,
@@ -7728,7 +7728,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1631,
@@ -7751,7 +7751,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1630,
@@ -7774,7 +7774,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1629,
@@ -7797,7 +7797,7 @@
     "PatientStatusName": "已完成"
   },
   {
-    "CompletedCRFCount": 4,
+    "CompletedCRFCount": 8,
     "PatientEnterDate": null,
     "OverDueCRFCount": 0,
     "ID": 1607,
